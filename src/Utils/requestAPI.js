@@ -24,3 +24,8 @@ export const updateClient = async (endpoint, body) => {
   const { data } = await api.put( endpoint, body);
   return data;
 }
+
+export const deleteClient = async (endpoint) => {
+  const { data } = await api.delete( endpoint );
+  return data;
+}
