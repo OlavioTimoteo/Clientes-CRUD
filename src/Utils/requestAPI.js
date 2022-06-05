@@ -19,3 +19,8 @@ export const getClientsById = async (endpoint) => {
   const { data } = await api.get(endpoint);
   return data;
 }
+
+export const updateClient = async (endpoint, body) => {
+  const { data } = await api.put( endpoint, body);
+  return data;
+}
