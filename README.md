@@ -8,6 +8,8 @@ O desafio técnico consiste em desenvolver uma aplicação front-end e utilizand
 
 - React JS
 - JSON-Server
+- React-hook-forms
+- Yup
 
 ## Rotas disponiveis
 
@@ -38,6 +40,10 @@ Inicie o Front-End:
 Documentação do [ReactJS](https://pt-br.reactjs.org/docs/getting-started.html)
 
 Documentação do [JSON-Server](https://www.npmjs.com/package/json-server)
+
+Documentação do [React-hook-forms](https://react-hook-form.com/)
+
+Documentação do [Yup](https://www.npmjs.com/package/yup)
 
 ## Considerações Finais
 
